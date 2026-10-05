@@ -1,0 +1,11 @@
+mechanism,solver,pos_med_um,pos_p95_um,pos_max_um,rot_med_deg,rot_p95_deg,rot_max_deg,converged_pct,iters_mean
+planar 3-RPR,S0: learned FK + 0 Newton step(s),2638.3499,6350.9252,72098.2787,0.2955,1.5706,21.2527,,0.0
+planar 3-RPR,S1: learned FK + 1 Newton step(s),20.1673,715.3822,1997398.7219,0.0067,0.3253,151.5363,,1.0
+planar 3-RPR,S2: learned FK + 2 Newton step(s),14.3242,128.9847,3695653.2788,0.0035,0.0527,112.8818,,2.0
+planar 3-RPR,Newton from home pose,13.5223,106.6104,3326.2598,0.0031,0.0401,1.5181,80.36,8.2686
+planar 3-RPR,Learned FK + Newton to convergence,14.1813,104.396,1048.8836,0.0035,0.042,0.348,99.96,2.9393
+6-6 Gough-Stewart,S0: learned FK + 0 Newton step(s),2661.8034,5452.8173,22236.4961,0.6525,1.4942,5.8481,,0.0
+6-6 Gough-Stewart,S1: learned FK + 1 Newton step(s),32.5637,177.9708,6971.4601,0.0055,0.0432,2.0703,,1.0
+6-6 Gough-Stewart,S2: learned FK + 2 Newton step(s),18.8411,41.9348,1947.4715,0.0032,0.0092,0.5796,,2.0
+6-6 Gough-Stewart,Newton from home pose,18.8281,41.6974,226.7715,0.0032,0.0091,0.0651,100.0,4.7572
+6-6 Gough-Stewart,Learned FK + Newton to convergence,18.8281,41.6973,226.7715,0.0032,0.0091,0.0651,100.0,2.868

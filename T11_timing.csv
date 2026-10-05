@@ -1,0 +1,3 @@
+mechanism,mlp_forward_us,one_ikc_evaluation_us,S1_certified_query_us,ensemble_5_sklearn_predict_us,S1_certified_batched_us_per_pose
+planar 3-RPR,28.89,246.43,563.55,2459.33,13.62
+6-6 Gough-Stewart,23.87,316.07,848.23,2198.03,28.57

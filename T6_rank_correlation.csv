@@ -1,0 +1,13 @@
+mechanism,stage,error,spearman_ens,spearman_learn,spearman_ikc
+planar 3-RPR,S0,position,0.578,0.476,0.997
+planar 3-RPR,S0,orientation,0.576,0.547,0.988
+planar 3-RPR,S1,position,0.395,0.717,0.803
+planar 3-RPR,S1,orientation,0.603,0.758,0.848
+planar 3-RPR,S2,position,0.263,0.519,0.578
+planar 3-RPR,S2,orientation,0.489,0.641,0.672
+6-6 Gough-Stewart,S0,position,0.55,0.381,0.999
+6-6 Gough-Stewart,S0,orientation,0.442,0.32,1.0
+6-6 Gough-Stewart,S1,position,0.383,0.494,0.841
+6-6 Gough-Stewart,S1,orientation,0.459,0.567,0.862
+6-6 Gough-Stewart,S2,position,0.146,0.294,0.358
+6-6 Gough-Stewart,S2,orientation,0.222,0.497,0.53

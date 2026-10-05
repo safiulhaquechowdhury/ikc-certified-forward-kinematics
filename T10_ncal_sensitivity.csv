@@ -1,0 +1,25 @@
+mechanism,n_cal,method,coverage_mean,coverage_sd,coverage_p05,coverage_p95
+planar 3-RPR,100,CP-const,0.8988,0.0271,0.8518,0.9409
+planar 3-RPR,100,CP-IKC (proposed),0.898,0.0268,0.8543,0.9374
+planar 3-RPR,250,CP-const,0.8994,0.0225,0.8562,0.927
+planar 3-RPR,250,CP-IKC (proposed),0.8986,0.0178,0.8714,0.9227
+planar 3-RPR,500,CP-const,0.8994,0.0143,0.877,0.919
+planar 3-RPR,500,CP-IKC (proposed),0.8978,0.0121,0.8767,0.9179
+planar 3-RPR,1000,CP-const,0.8996,0.0084,0.8879,0.9137
+planar 3-RPR,1000,CP-IKC (proposed),0.9015,0.0094,0.886,0.9159
+planar 3-RPR,2000,CP-const,0.8974,0.0081,0.8838,0.909
+planar 3-RPR,2000,CP-IKC (proposed),0.8991,0.0078,0.8862,0.9106
+planar 3-RPR,5000,CP-const,0.8993,0.0051,0.8911,0.9057
+planar 3-RPR,5000,CP-IKC (proposed),0.9003,0.0047,0.8922,0.9084
+6-6 Gough-Stewart,100,CP-const,0.9042,0.0295,0.8546,0.9416
+6-6 Gough-Stewart,100,CP-IKC (proposed),0.9024,0.0308,0.8478,0.954
+6-6 Gough-Stewart,250,CP-const,0.9004,0.0217,0.864,0.9341
+6-6 Gough-Stewart,250,CP-IKC (proposed),0.8991,0.0223,0.8641,0.9338
+6-6 Gough-Stewart,500,CP-const,0.8998,0.0161,0.8728,0.9258
+6-6 Gough-Stewart,500,CP-IKC (proposed),0.9001,0.0132,0.8763,0.9171
+6-6 Gough-Stewart,1000,CP-const,0.9008,0.0087,0.8861,0.9125
+6-6 Gough-Stewart,1000,CP-IKC (proposed),0.8995,0.0095,0.8824,0.9124
+6-6 Gough-Stewart,2000,CP-const,0.8993,0.0066,0.8902,0.909
+6-6 Gough-Stewart,2000,CP-IKC (proposed),0.8991,0.0062,0.8894,0.9071
+6-6 Gough-Stewart,5000,CP-const,0.9001,0.0043,0.893,0.9076
+6-6 Gough-Stewart,5000,CP-IKC (proposed),0.8997,0.0038,0.892,0.9053

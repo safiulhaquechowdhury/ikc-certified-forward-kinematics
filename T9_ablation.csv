@@ -1,0 +1,41 @@
+mechanism,stage,error,variant,coverage_mean,worst_decile_cov,mean_width
+planar 3-RPR,S1,position,IKC (residual + noise),0.8996,0.8729,750.7664
+planar 3-RPR,S1,position,residual term only,0.9017,0.8434,3987.5397
+planar 3-RPR,S1,position,noise term only,0.8992,0.5646,199.4284
+planar 3-RPR,S1,position,noise term with 0.5 sigma,0.8997,0.8471,1195.1104
+planar 3-RPR,S1,position,noise term with 2 sigma,0.8999,0.6539,565.3661
+planar 3-RPR,S1,orientation,IKC (residual + noise),0.8984,0.872,0.1919
+planar 3-RPR,S1,orientation,residual term only,0.9013,0.8183,0.552
+planar 3-RPR,S1,orientation,noise term only,0.8997,0.6391,0.0838
+planar 3-RPR,S1,orientation,noise term with 0.5 sigma,0.9,0.8601,0.2675
+planar 3-RPR,S1,orientation,noise term with 2 sigma,0.9006,0.7322,0.1513
+planar 3-RPR,S2,position,IKC (residual + noise),0.8997,0.8821,747.5337
+planar 3-RPR,S2,position,residual term only,0.9005,0.7892,254091755.1775
+planar 3-RPR,S2,position,noise term only,0.8998,0.7615,56.1856
+planar 3-RPR,S2,position,noise term with 0.5 sigma,0.8997,0.8815,1430.9914
+planar 3-RPR,S2,position,noise term with 2 sigma,0.8995,0.7954,412.2056
+planar 3-RPR,S2,orientation,IKC (residual + noise),0.9001,0.8909,0.0723
+planar 3-RPR,S2,orientation,residual term only,0.9,0.8213,6556.4316
+planar 3-RPR,S2,orientation,noise term only,0.9,0.7823,0.0212
+planar 3-RPR,S2,orientation,noise term with 0.5 sigma,0.9001,0.8867,0.1252
+planar 3-RPR,S2,orientation,noise term with 2 sigma,0.8999,0.8204,0.047
+6-6 Gough-Stewart,S1,position,IKC (residual + noise),0.8999,0.8799,86.7883
+6-6 Gough-Stewart,S1,position,residual term only,0.8994,0.8583,179.3998
+6-6 Gough-Stewart,S1,position,noise term only,0.9009,0.6414,99.514
+6-6 Gough-Stewart,S1,position,noise term with 0.5 sigma,0.8998,0.8662,113.0356
+6-6 Gough-Stewart,S1,position,noise term with 2 sigma,0.9003,0.7359,80.5506
+6-6 Gough-Stewart,S1,orientation,IKC (residual + noise),0.8995,0.8894,0.0198
+6-6 Gough-Stewart,S1,orientation,residual term only,0.8988,0.8585,0.0572
+6-6 Gough-Stewart,S1,orientation,noise term only,0.9002,0.6687,0.021
+6-6 Gough-Stewart,S1,orientation,noise term with 0.5 sigma,0.8983,0.8642,0.0272
+6-6 Gough-Stewart,S1,orientation,noise term with 2 sigma,0.9004,0.7764,0.0178
+6-6 Gough-Stewart,S2,position,IKC (residual + noise),0.9011,0.889,35.535
+6-6 Gough-Stewart,S2,position,residual term only,0.8993,0.8318,301148.2738
+6-6 Gough-Stewart,S2,position,noise term only,0.9013,0.8858,34.7913
+6-6 Gough-Stewart,S2,position,noise term with 0.5 sigma,0.9013,0.8884,36.6887
+6-6 Gough-Stewart,S2,position,noise term with 2 sigma,0.9012,0.8887,35.1052
+6-6 Gough-Stewart,S2,orientation,IKC (residual + noise),0.9002,0.8775,0.0067
+6-6 Gough-Stewart,S2,orientation,residual term only,0.8987,0.824,123.669
+6-6 Gough-Stewart,S2,orientation,noise term only,0.9001,0.8608,0.0065
+6-6 Gough-Stewart,S2,orientation,noise term with 0.5 sigma,0.9002,0.8793,0.007
+6-6 Gough-Stewart,S2,orientation,noise term with 2 sigma,0.9,0.8649,0.0066

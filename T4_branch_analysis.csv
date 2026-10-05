@@ -1,0 +1,5 @@
+mechanism,solver,n_test,not_converged,converged_wrong_solution,wrong_flagged_by_aspect_guard,wrong_flagged_by_domain_guard,wrong_flagged_by_either,silent_after_guards,false_alarms_on_correct,wrong_true_LCI_max
+planar 3-RPR,Newton from home pose,25000,4910,11252,11222,6278,11252,0,7015,0.9406633307222588
+planar 3-RPR,Learned FK + Newton to convergence,25000,10,14,8,8,9,5,36,0.027111114716642553
+6-6 Gough-Stewart,Newton from home pose,25000,0,0,0,0,0,0,7,
+6-6 Gough-Stewart,Learned FK + Newton to convergence,25000,0,0,0,0,0,0,7,

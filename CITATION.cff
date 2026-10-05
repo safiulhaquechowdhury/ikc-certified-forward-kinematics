@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Certified learned forward kinematics for parallel mechanisms: inverse-kinematics consistency and conformal pose-error bounds"
+version: 1.0.0
+date-released: 2026-10-05
+license: MIT
+authors:
+  - family-names: Diptho
+    given-names: Rakib Ahammed
+    orcid: "https://orcid.org/0009-0007-3062-1034"
+    affiliation: "Department of Computer Science and Engineering, Jahangirnagar University, Savar, Dhaka, Bangladesh"
+keywords:
+  - parallel mechanism
+  - forward kinematics
+  - Type II singularity
+  - conformal prediction
+  - uncertainty quantification

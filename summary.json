@@ -1,0 +1,43 @@
+{
+  "config": {
+    "seed": 2026,
+    "sigma_q": 1e-05,
+    "lci_min": 0.01,
+    "n_train": 30000,
+    "n_fit": 5000,
+    "n_pool": 25000,
+    "n_cal": 5000,
+    "n_shift": 10000,
+    "n_reps": 20,
+    "alpha": 0.1,
+    "n_ens": 5,
+    "hidden": [
+      128,
+      128
+    ],
+    "max_epochs": 200,
+    "n_bins_mondrian": 5,
+    "ncal_grid": [
+      100,
+      250,
+      500,
+      1000,
+      2000,
+      5000
+    ],
+    "ncal_reps": 50,
+    "home_max_iter": 50,
+    "newton_tol": 1e-10,
+    "converge_steps": 10,
+    "timing_queries": 2000
+  },
+  "runtime_s": 193.43940901756287,
+  "versions": {
+    "python": "3.14.6",
+    "numpy": "2.4.6",
+    "scipy": "1.18.0",
+    "pandas": "3.0.3",
+    "sklearn": "1.9.0",
+    "matplotlib": "3.11.0"
+  }
+}

@@ -1,0 +1,121 @@
+mechanism,stage,method,LCI_decile,coverage,mean_width_um
+planar 3-RPR,S1,CP-const,1,0.3257,285.082
+planar 3-RPR,S1,CP-const,2,0.7986,285.082
+planar 3-RPR,S1,CP-const,3,0.9057,285.082
+planar 3-RPR,S1,CP-const,4,0.9715,285.082
+planar 3-RPR,S1,CP-const,5,0.999,285.082
+planar 3-RPR,S1,CP-const,6,1.0,285.082
+planar 3-RPR,S1,CP-const,7,1.0,285.082
+planar 3-RPR,S1,CP-const,8,1.0,285.082
+planar 3-RPR,S1,CP-const,9,1.0,285.082
+planar 3-RPR,S1,CP-const,10,1.0,285.082
+planar 3-RPR,S1,CP-ens,1,0.3493,350.6255
+planar 3-RPR,S1,CP-ens,2,0.8063,302.6921
+planar 3-RPR,S1,CP-ens,3,0.8899,259.9207
+planar 3-RPR,S1,CP-ens,4,0.96,246.0595
+planar 3-RPR,S1,CP-ens,5,0.9975,249.6716
+planar 3-RPR,S1,CP-ens,6,1.0,238.8545
+planar 3-RPR,S1,CP-ens,7,1.0,232.8833
+planar 3-RPR,S1,CP-ens,8,1.0,219.2087
+planar 3-RPR,S1,CP-ens,9,1.0,218.7902
+planar 3-RPR,S1,CP-ens,10,1.0,217.697
+planar 3-RPR,S1,CP-learn,1,0.5043,869.11
+planar 3-RPR,S1,CP-learn,2,0.8584,441.1152
+planar 3-RPR,S1,CP-learn,3,0.9089,264.3117
+planar 3-RPR,S1,CP-learn,4,0.9326,135.872
+planar 3-RPR,S1,CP-learn,5,0.9617,86.0165
+planar 3-RPR,S1,CP-learn,6,0.9729,54.5712
+planar 3-RPR,S1,CP-learn,7,0.9558,40.666
+planar 3-RPR,S1,CP-learn,8,0.9694,33.7305
+planar 3-RPR,S1,CP-learn,9,0.976,31.4716
+planar 3-RPR,S1,CP-learn,10,0.9563,25.9244
+planar 3-RPR,S1,CP-strat,1,0.8131,1894.9812
+planar 3-RPR,S1,CP-strat,2,0.9702,1849.5227
+planar 3-RPR,S1,CP-strat,3,0.8728,262.8877
+planar 3-RPR,S1,CP-strat,4,0.9438,223.9298
+planar 3-RPR,S1,CP-strat,5,0.851,52.9566
+planar 3-RPR,S1,CP-strat,6,0.9567,48.6496
+planar 3-RPR,S1,CP-strat,7,0.8771,28.1141
+planar 3-RPR,S1,CP-strat,8,0.9215,27.4123
+planar 3-RPR,S1,CP-strat,9,0.884,21.5458
+planar 3-RPR,S1,CP-strat,10,0.9202,21.4903
+planar 3-RPR,S1,CP-IKC (proposed),1,0.9144,6392.3874
+planar 3-RPR,S1,CP-IKC (proposed),2,0.9276,612.9197
+planar 3-RPR,S1,CP-IKC (proposed),3,0.9155,191.7376
+planar 3-RPR,S1,CP-IKC (proposed),4,0.912,89.9477
+planar 3-RPR,S1,CP-IKC (proposed),5,0.9029,47.5538
+planar 3-RPR,S1,CP-IKC (proposed),6,0.8844,30.024
+planar 3-RPR,S1,CP-IKC (proposed),7,0.8728,26.6724
+planar 3-RPR,S1,CP-IKC (proposed),8,0.8978,23.5903
+planar 3-RPR,S1,CP-IKC (proposed),9,0.8917,21.1405
+planar 3-RPR,S1,CP-IKC (proposed),10,0.8737,19.3492
+planar 3-RPR,S1,CP-IKC-M (proposed),1,0.89,6131.1049
+planar 3-RPR,S1,CP-IKC-M (proposed),2,0.9156,589.3352
+planar 3-RPR,S1,CP-IKC-M (proposed),3,0.8994,183.2463
+planar 3-RPR,S1,CP-IKC-M (proposed),4,0.8961,86.0937
+planar 3-RPR,S1,CP-IKC-M (proposed),5,0.9111,48.543
+planar 3-RPR,S1,CP-IKC-M (proposed),6,0.8918,30.6858
+planar 3-RPR,S1,CP-IKC-M (proposed),7,0.8889,27.3636
+planar 3-RPR,S1,CP-IKC-M (proposed),8,0.9084,24.2242
+planar 3-RPR,S1,CP-IKC-M (proposed),9,0.903,21.7883
+planar 3-RPR,S1,CP-IKC-M (proposed),10,0.892,19.9426
+6-6 Gough-Stewart,S1,CP-const,1,0.534,109.0204
+6-6 Gough-Stewart,S1,CP-const,2,0.7578,109.0204
+6-6 Gough-Stewart,S1,CP-const,3,0.8636,109.0204
+6-6 Gough-Stewart,S1,CP-const,4,0.9399,109.0204
+6-6 Gough-Stewart,S1,CP-const,5,0.9747,109.0204
+6-6 Gough-Stewart,S1,CP-const,6,0.9844,109.0204
+6-6 Gough-Stewart,S1,CP-const,7,0.984,109.0204
+6-6 Gough-Stewart,S1,CP-const,8,0.9901,109.0204
+6-6 Gough-Stewart,S1,CP-const,9,0.9901,109.0204
+6-6 Gough-Stewart,S1,CP-const,10,0.9886,109.0204
+6-6 Gough-Stewart,S1,CP-ens,1,0.5691,123.2567
+6-6 Gough-Stewart,S1,CP-ens,2,0.7726,114.6524
+6-6 Gough-Stewart,S1,CP-ens,3,0.87,109.7511
+6-6 Gough-Stewart,S1,CP-ens,4,0.9321,101.805
+6-6 Gough-Stewart,S1,CP-ens,5,0.9616,96.5464
+6-6 Gough-Stewart,S1,CP-ens,6,0.9706,92.7487
+6-6 Gough-Stewart,S1,CP-ens,7,0.974,90.3039
+6-6 Gough-Stewart,S1,CP-ens,8,0.9838,87.236
+6-6 Gough-Stewart,S1,CP-ens,9,0.9814,86.1078
+6-6 Gough-Stewart,S1,CP-ens,10,0.9801,88.4333
+6-6 Gough-Stewart,S1,CP-learn,1,0.6566,168.5224
+6-6 Gough-Stewart,S1,CP-learn,2,0.853,150.4213
+6-6 Gough-Stewart,S1,CP-learn,3,0.9042,131.7153
+6-6 Gough-Stewart,S1,CP-learn,4,0.943,112.2595
+6-6 Gough-Stewart,S1,CP-learn,5,0.955,93.3943
+6-6 Gough-Stewart,S1,CP-learn,6,0.9558,78.9617
+6-6 Gough-Stewart,S1,CP-learn,7,0.9493,70.6078
+6-6 Gough-Stewart,S1,CP-learn,8,0.9377,63.2411
+6-6 Gough-Stewart,S1,CP-learn,9,0.9229,59.5063
+6-6 Gough-Stewart,S1,CP-learn,10,0.9302,59.1136
+6-6 Gough-Stewart,S1,CP-strat,1,0.8296,332.0029
+6-6 Gough-Stewart,S1,CP-strat,2,0.971,328.7799
+6-6 Gough-Stewart,S1,CP-strat,3,0.8646,113.5903
+6-6 Gough-Stewart,S1,CP-strat,4,0.9357,106.4121
+6-6 Gough-Stewart,S1,CP-strat,5,0.8834,64.6068
+6-6 Gough-Stewart,S1,CP-strat,6,0.9203,63.1952
+6-6 Gough-Stewart,S1,CP-strat,7,0.8875,53.6322
+6-6 Gough-Stewart,S1,CP-strat,8,0.9124,53.3732
+6-6 Gough-Stewart,S1,CP-strat,9,0.9052,51.9941
+6-6 Gough-Stewart,S1,CP-strat,10,0.9025,51.9814
+6-6 Gough-Stewart,S1,CP-IKC (proposed),1,0.9198,329.9781
+6-6 Gough-Stewart,S1,CP-IKC (proposed),2,0.9109,119.9993
+6-6 Gough-Stewart,S1,CP-IKC (proposed),3,0.9152,85.4242
+6-6 Gough-Stewart,S1,CP-IKC (proposed),4,0.9064,64.8284
+6-6 Gough-Stewart,S1,CP-IKC (proposed),5,0.8942,52.7183
+6-6 Gough-Stewart,S1,CP-IKC (proposed),6,0.8835,46.6885
+6-6 Gough-Stewart,S1,CP-IKC (proposed),7,0.8949,44.6157
+6-6 Gough-Stewart,S1,CP-IKC (proposed),8,0.8817,41.3484
+6-6 Gough-Stewart,S1,CP-IKC (proposed),9,0.8933,40.4292
+6-6 Gough-Stewart,S1,CP-IKC (proposed),10,0.8932,40.4783
+6-6 Gough-Stewart,S1,CP-IKC-M (proposed),1,0.906,321.675
+6-6 Gough-Stewart,S1,CP-IKC-M (proposed),2,0.893,117.0138
+6-6 Gough-Stewart,S1,CP-IKC-M (proposed),3,0.9063,83.8023
+6-6 Gough-Stewart,S1,CP-IKC-M (proposed),4,0.8944,63.6428
+6-6 Gough-Stewart,S1,CP-IKC-M (proposed),5,0.9028,53.759
+6-6 Gough-Stewart,S1,CP-IKC-M (proposed),6,0.8951,47.6571
+6-6 Gough-Stewart,S1,CP-IKC-M (proposed),7,0.9066,45.7242
+6-6 Gough-Stewart,S1,CP-IKC-M (proposed),8,0.8944,42.3772
+6-6 Gough-Stewart,S1,CP-IKC-M (proposed),9,0.9005,40.9236
+6-6 Gough-Stewart,S1,CP-IKC-M (proposed),10,0.899,40.9575

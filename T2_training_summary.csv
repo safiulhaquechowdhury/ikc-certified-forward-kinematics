@@ -1,0 +1,3 @@
+mechanism,members,hidden,epochs_member0,epochs_mean,fit_time_member0_s,fit_time_total_s
+planar 3-RPR,5,"(128, 128)",45,62.8,7.34,52.47
+6-6 Gough-Stewart,5,"(128, 128)",62,87.8,10.61,71.7
